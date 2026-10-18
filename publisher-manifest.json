@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "bef90ce864e54d29d824b9fb",
+  "owner": "bhkatbwmt",
+  "repo": "page-46f5ca1c6d9f53edcfd0e832",
+  "title": "歪歪YY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46f5ca1c6d9f53edcfd0e832",
+      "a": "歪歪YY",
+      "b": "",
+      "entity": "歪歪YY",
+      "brand": "歪歪YY",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4d40be118b98b6f5d39b64cc6e4d57dbfa73fb6a31d48976a66073db169a7ffe",
+      "content": {
+        "keyword1": "歪歪YY",
+        "keyword2": "",
+        "primary_entity": "歪歪YY",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "歪歪YY 提供严谨的传输协议说明与连接管理方案，旨在保障多终端网络环境下的稳定吞吐与路径规划。",
+          "AI_DESCRIPTION": "歪歪YY 提供严谨的传输协议说明与连接管理方案，旨在保障多终端网络环境下的稳定吞吐与路径规划。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-primary: #0b1329;--bg-card: #121c38;--text-main: #d1dbe5;--text-muted: #8a9bb8;--accent: #f59e0b;--accent-dim: rgba(245, 158, 11, 0.15);--border-color: #1e2a4a}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-primary);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 0}\nheader {border-bottom: 1px solid var(--border-color);background-color: rgba(11, 19, 41, 0.95);position: sticky;top: 0;z-index: 100}\n.nav-container {max-width: 1200px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;padding: 0.75rem 1.5rem}\n.logo {font-weight: 700;color: var(--accent);letter-spacing: 0.05em;text-decoration: none}\n.nav-links {display: flex;gap: 2rem;list-style: none}\n.nav-links a {color: var(--text-muted);text-decoration: none;font-size: 0.9rem;transition: color 0.2s}\n.nav-links a:hover {color: var(--accent)}\nmain {max-width: 1200px;margin: 0 auto;padding: 2rem 1.5rem 4rem 1.5rem}\n.hero {display: grid;grid-template-columns: 1.2fr 0.8fr;gap: 3rem;align-items: center;padding: 4rem 0}\n@media (max-width: 768px) {\n  .hero {grid-template-columns: 1fr;gap: 2rem}\n}\n.hero-content h1 {font-size: 3rem;color: #ffffff;margin-bottom: 1.5rem;line-height: 1.2}\n.hero-content p {color: var(--text-muted);font-size: 1.1rem;margin-bottom: 2rem}\n.hero-panel {background-color: var(--bg-card);border-left: 3px solid var(--accent);padding: 2rem}\n.hero-panel h3 {color: #ffffff;margin-bottom: 1rem;font-size: 1.2rem}\n.hero-panel ul {list-style: none}\n.hero-panel li {margin-bottom: 0.75rem;color: var(--text-muted);font-size: 0.95rem}\n.hero-panel li strong {color: var(--text-main)}\nsection {margin: 5rem 0}\nsection h2 {font-size: 2rem;color: #ffffff;margin-bottom: 1rem}\n.section-desc {color: var(--text-muted);margin-bottom: 3rem;max-width: 600px}\n.plans-grid {display: flex;flex-direction: column;gap: 1.5rem}\n.plan-card {background-color: var(--bg-card);padding: 2.5rem;display: grid;grid-template-columns: 1fr 2fr 1fr;align-items: center;gap: 2rem;border: 1px solid var(--border-color);transition: transform 0.2s, border-color 0.2s}\n.plan-card:hover {border-color: var(--accent)}\n.plan-card.featured {background: linear-gradient(135deg, var(--bg-card) 0%, rgba(245, 158, 11, 0.05) 100%);border-color: var(--accent)}\n@media (max-width: 900px) {\n  .plan-card {grid-template-columns: 1fr;gap: 1rem}\n}\n.plan-info h3 {color: #ffffff;font-size: 1.5rem;margin-bottom: 0.5rem}\n.plan-info p {color: var(--text-muted);font-size: 0.9rem}\n.plan-features ul {list-style: none;display: grid;grid-template-columns: 1fr 1fr;gap: 0.5rem 1rem}\n@media (max-width: 600px) {\n  .plan-features ul {grid-template-columns: 1fr}\n}\n.plan-features li {color: var(--text-main);font-size: 0.9rem}\n.plan-action {text-align: right}\n@media (max-width: 900px) {\n  .plan-action {text-align: left}\n}\n.price {font-size: 1.8rem;font-weight: 700;color: var(--accent);margin-bottom: 0.25rem}\n.price-annual {font-size: 0.85rem;color: var(--text-muted);margin-bottom: 1rem}\n.btn {display: inline-block;background-color: var(--accent);color: var(--bg-primary);padding: 0.6rem 1.5rem;text-decoration: none;font-weight: 600;font-size: 0.9rem}\n.btn:hover {opacity: 0.9}\n.faq-groups {display: grid;grid-template-columns: 1fr;gap: 2.5rem}\n.faq-group h3 {color: var(--accent);font-size: 1.2rem;margin-bottom: 1.5rem;border-bottom: 1px solid var(--border-color);padding-bottom: 0.5rem}\n.faq-item {background-color: var(--bg-card);padding: 1.5rem;margin-bottom: 1rem}\n.faq-item h4 {color: #ffffff;font-size: 1.05rem;margin-bottom: 0.75rem}\n.faq-item p {color: var(--text-muted);font-size: 0.95rem}\nfooter {border-top: 1px solid var(--border-color);padding: 3rem 1.5rem;text-align: center;color: var(--text-muted);font-size: 0.9rem}\n</style><header>\n  <div class=\"nav-container\">\n    <a href=\"#\" class=\"logo\">歪歪YY</a>\n    <ul class=\"nav-links\">\n      <li><a href=\"#overview\">系统概述</a></li>\n      <li><a href=\"#plans\">服务规格</a></li>\n      <li><a href=\"#faq\">技术问答</a></li>\n    </ul>\n  </div>\n</header>\n<main>\n  <div id=\"overview\" class=\"hero\">\n    <div class=\"hero-content\">\n      <h1>歪歪YY<br>网络传输与连接管理说明书</h1>\n      <p>本系统面向多终端网络环境，提供基于严格吞吐量控制与路径优化的传输代理说明。通过结构化参数配置，确保各节点在复杂环境下的连通性与低延迟表现。</p>\n    </div>\n    <div class=\"hero-panel\">\n      <h3>核心运行参数</h3>\n      <ul>\n        <li><strong>协议架构：</strong> 现代化加密传输协议</li>\n        <li><strong>节点分级：</strong> 基础池 / 专线优化 / VIP 专属</li>\n        <li><strong>并发控制：</strong> 多端授权动态配额</li>\n        <li><strong>路由策略：</strong> 自定义分流与智能分发</li>\n      </ul>\n    </div>\n  </div>\n\n  <section id=\"plans\">\n    <h2>服务规格与阶梯配置</h2>\n    <div class=\"section-desc\">以下为不同网络负荷需求对应的配额方案。所有方案均提供标准加密封装，用户可根据实际吞吐需求选择对应级别。</div>\n    <div class=\"plans-grid\">\n      <div class=\"plan-card\">\n        <div class=\"plan-info\">\n          <h3>基础版</h3>\n          <p>适用于常规网页浏览及基础数据传输需求。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <div class=\"plan-action\">\n          <div class=\"price\">¥15/月</div>\n          <div class=\"price-annual\">按年付仅需 ¥150/年</div>\n          <a href=\"#\" class=\"btn\">选用方案</a>\n        </div>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-info\">\n          <h3>旗舰版</h3>\n          <p>面向高强度吞吐、全媒体解锁及游戏加速优化场景。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <div class=\"plan-action\">\n          <div class=\"price\">¥35/月</div>\n          <div class=\"price-annual\">按年付仅需 ¥350/年</div>\n          <a href=\"#\" class=\"btn\">选用方案</a>\n        </div>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-info\">\n          <h3>团队版</h3>\n          <p>针对多用户协作及企业级定制路由的高端配置。</p>\n        </div>\n        <div class=\"plan-features\">\n          <ul>\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </div>\n        <div class=\"plan-action\">\n          <div class=\"price\">¥85/月</div>\n          <div class=\"price-annual\">按年付仅需 ¥850/年</div>\n          <a href=\"#\" class=\"btn\">选用方案</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>技术与配置问答</h2>\n    <div class=\"section-desc\">关于系统连接、配置导入以及账户配额的常见疑问与官方解答。</div>\n    <div class=\"faq-groups\">\n      <div class=\"faq-group\">\n        <h3>一、 连接与节点配置</h3>\n        <div class=\"faq-item\">\n          <h4>如何获取初始连接配置文件？</h4>\n          <p>用户在完成账户开通后，可在控制台面板直接复制专属订阅链接，或通过二维码扫描导入至兼容的客户端软件中。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h4>节点列表无法正常更新应如何处理？</h4>\n          <p>请检查本地网络是否对订阅地址存在拦截，或尝试在客户端中手动执行“更新订阅”指令。若问题持续，可更换备用网络端口。</p>\n        </div>\n      </div>\n\n      <div class=\"faq-group\">\n        <h3>二、 流量与设备配额</h3>\n        <div class=\"faq-item\">\n          <h4>流量重置周期是如何计算的？</h4>\n          <p>所有方案的流量配额均以自然月为周期进行重置。具体重置时间点可在用户控制台首页查看倒计时提示。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h4>超出同时在线设备限制会产生什么影响？</h4>\n          <p>当在线设备数量超过当前方案上限时，后接入的设备将无法建立稳定连接，或导致最早接入的设备会话自动断开。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n</main>\n<footer>\n  <p>© 歪歪YY 传输管理系统. 保留所有权利. 本文档遵循冷静克制的说明书规范。</p>\n</footer>",
+          "hash": "0d763df658f8a97faa39276f0aabe545556d4b6c25e4f0e68ece9258b5e84fd6",
+          "seo": {
+            "title": "歪歪YY - 网络传输与连接管理说明书",
+            "keywords": "歪歪YY, 传输协议, 连接管理, 节点配置, 路由规则",
+            "description": "歪歪YY 提供严谨的传输协议说明与连接管理方案，旨在保障多终端网络环境下的稳定吞吐与路径规划。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5472",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wklxb.cn",
+    "host": "p-0e16437fc8.wklxb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "312317b56666292da607a52514c048c491d7996899c9d6a880de42845efa6f9c",
+    "sitemap.xml": "71f5428f9152b0fc4edd880b3dc21dde4ec1ee96e5943a5d959ce91a00d4b4a4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5354af24189dc3622a1da46eab3589f142f6a0102b1cd6ff570ce18ec9baa44d",
+    "robots.txt": "fd1280c6c3b277b1f2fb04bb9c13f9643f4ba4db868a2a8cf35a0558ac0b0472",
+    "e01f02f408dd6e36597467483d4b491d.txt": "1e581633143fbc39d84d9f3a8e3fb4517f3a5c9c7679464594c81bf8427bdd51"
+  },
+  "revision": "f83214534b6d65ffbab390475bd958b89339e6f0b6d4da89472eebf384b7e093"
+}
